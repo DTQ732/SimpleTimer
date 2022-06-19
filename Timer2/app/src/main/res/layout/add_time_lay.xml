@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <EditText xmlns:android="http://schemas.android.com/apk/res/android"
+        android:hint="点此添加，长按删除"
+        android:textColorHint="@color/white"
+        android:inputType="number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-black"
+        android:textColor="@color/white"
+        android:textSize="42sp"
+        android:background="@drawable/shape_time_choice"
+        android:textStyle="bold">
+    </EditText>
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-black"
+        android:textColor="@color/white"
+        android:text="确认"
+        android:textSize="42sp"
+        android:background="@drawable/shape_time_choice"
+        android:textStyle="bold" >
+
+    </TextView>
+</LinearLayout>

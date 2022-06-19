@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">黑科技计时器</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">Hello World</string>
+</resources>
